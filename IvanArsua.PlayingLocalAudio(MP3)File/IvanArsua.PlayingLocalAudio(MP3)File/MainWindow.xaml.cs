@@ -41,9 +41,18 @@ namespace IvanArsua.PlayingLocalAudio_MP3_File
         void timer_Tick(object sender, EventArgs e)
         {
             if (mediaPlayer.Source != null)
+            { 
+              if (mediaPlayer.NaturalDuration.HasTimeSpan)
+              {
                 lblStatus.Content = String.Format("{0} / {1}", mediaPlayer.Position.ToString(@"mm\:ss"), mediaPlayer.NaturalDuration.TimeSpan.ToString(@"mm\:ss"));
+              }
+            }
+          
             else
+            {
                 lblStatus.Content = "No file selected...";
+            }
+                
         }
         private void btnPlay_Click(object sender, RoutedEventArgs e)
         {
@@ -58,5 +67,15 @@ namespace IvanArsua.PlayingLocalAudio_MP3_File
             mediaPlayer.Stop();
         }
 
+        private void btnOpen_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "MP3 files (*.mp3)|*.mp3|All files (*.*)|*.*";
+            if (openFileDialog.ShowDialog() == true)
+            {
+                mediaPlayer.Open(new Uri(openFileDialog.FileName));
+                mediaPlayer.Play();
+            }
+        }
     }
 }
