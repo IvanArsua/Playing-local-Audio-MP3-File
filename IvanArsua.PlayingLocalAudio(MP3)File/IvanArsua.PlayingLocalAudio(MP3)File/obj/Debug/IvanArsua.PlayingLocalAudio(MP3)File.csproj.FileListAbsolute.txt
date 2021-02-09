@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\bin\Debug\IvanArsua.PlayingLocalAudio(MP3)File.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\bin\Debug\IvanArsua.PlayingLocalAudio(MP3)File.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\bin\Debug\IvanArsua.PlayingLocalAudio(MP3)File.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio_MP3_File.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Playing local Audio (MP3) File\IvanArsua.PlayingLocalAudio(MP3)File\IvanArsua.PlayingLocalAudio(MP3)File\obj\Debug\IvanArsua.PlayingLocalAudio(MP3)File.pdb
